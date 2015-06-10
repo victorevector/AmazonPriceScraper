@@ -1,0 +1,8 @@
+requests
+mock
+six
+
+[tests]
+pytest
+pytest-cov
+flake8

@@ -1,0 +1,5 @@
+Flask==0.10.1
+beautifulsoup4==4.3.2
+requests==2.2.1
+responses==0.3.0
+
